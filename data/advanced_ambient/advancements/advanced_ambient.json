@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Advanced Ambient: Core",
+        "description": "Core datapack for Advanced Ambient",
+        "icon": {
+            "item": "minecraft:redstone"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:advanced_ambient",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
